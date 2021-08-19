@@ -1,0 +1,6 @@
+===================================================================
+Todays Update :- 
+-Learning new project setup from @tejendra
+-Will practice git commands 
+-checking meeting and updates
+-will learning react
